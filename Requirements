@@ -1,0 +1,7 @@
+pandas version=2.0.3
+numpy version=1.24.4
+seaborn version=0.12.2
+plotly
+sklearn
+tensorflow
+keras
